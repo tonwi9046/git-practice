@@ -10,4 +10,4 @@ Day 3 Practice:
 - Git push
 - Git pull
 
-ok done
+ok doneTesting git stash command
